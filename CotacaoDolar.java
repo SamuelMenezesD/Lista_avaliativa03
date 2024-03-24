@@ -4,9 +4,11 @@ public class CotacaoDolar {
 
     public CotacaoDolar (double cotacao, double quantdolar){
         this.cotacao = cotacao;
+
         this.quantdolar = quantdolar;
     }
     public double converReal(){
+        
         return quantdolar*cotacao;
     }
     
