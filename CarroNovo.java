@@ -6,6 +6,7 @@ public class CarroNovo {
     }
 
     public double custoComimposto(){
+        
         return (custofabrica * 45/100) * 28/100;
     }
     
