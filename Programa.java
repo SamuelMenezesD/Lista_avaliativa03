@@ -41,74 +41,74 @@ public class Programa {
                 System.out.println("Você escolheu a Exercicio 1");
                 Exercicio_01.executar();
                 break;
-            // case 2:
-            //     System.out.println("Você escolheu a Exercicio 2");
-            //     Exercicio_02.executar();
-            //     break;
-            // case 3:
-            //     System.out.println("Você escolheu a Exercicio 3");
-            //     Exercicio_03.executar();
-            //     break;
-            // case 4:
-            //     System.out.println("Você escolheu a Exercicio 4");
-            //     Exercicio_04.executar();
-            //     break;
-            // case 5:
-            //     System.out.println("Você escolheu a Exercicio 5");
-            //     Exercicio_05.executar();
-            //    break;
-            // case 6:
-            //     System.out.println("Você escolheu a Exercicio 6");
-            //     Exercicio_06.executar();
-            //     break;
-            // case 7:
-            //     System.out.println("Você escolheu a Exercicio 7");
-            //     Exercicio_07.executar();
-            //     break;
-            // case 8:
-            //     System.out.println("Você escolheu a Exercicio 8");
-            //     Exercicio_08.executar();
-            //     break;
-            // case 9:
-            //     System.out.println("Você escolheu a Exercicio 9");
-            //     Exercicio_09.executar();
-            //     break;
-            // case 10:
-            //     System.out.println("Você escolheu a Exercicio 10");
-            //     Exercicio_10.executar();
-            //     break;
-            // case 11:
-            //     System.out.println("Você escolheu a Exercicio 11");
-            //     Exercicio_11.executar();
-            //     break;
-            // case 12:
-            //     System.out.println("Você escolheu a Exercicio 12");
-            //     Exercicio_12.executar();
-            //     break;
-            // case 13:
-            //     System.out.println("Você escolheu a Exercicio 13");
-            //     Exercicio_13.executar();
-            //     break;
-            // case 14:
-            //     System.out.println("Você escolheu a Exercicio 14");
-            //     Exercicio_14.executar();
-            //     break;
-            // case 15:
-            //     System.out.println("Você escolheu a Exercicio 15");
-            //     Exercicio_15.executar();
-            //     break;
-            // case 16:
-            //     System.out.println("Você escolheu a Exercicio 16");
-            //     Exercicio_16.executar();
-            //     break;        
-            // case 17:
-            //     System.out.println("Você escolheu a Exercicio 17");
-            //     Exercicio_17.executar();
-            //     break;  
-            // case 18:
-            //     System.out.println("Você escolheu a Exercicio 18");
-            //     Exercicio_18.executar();
-            //     break;  
+            case 2:
+                System.out.println("Você escolheu a Exercicio 2");
+                Exercicio_02.executar();
+                break;
+            case 3:
+                System.out.println("Você escolheu a Exercicio 3");
+                Exercicio_03.executar();
+                break;
+            case 4:
+                System.out.println("Você escolheu a Exercicio 4");
+                Exercicio_04.executar();
+                break;
+            case 5:
+                System.out.println("Você escolheu a Exercicio 5");
+                Exercicio_05.executar();
+               break;
+            case 6:
+                System.out.println("Você escolheu a Exercicio 6");
+                Exercicio_06.executar();
+                break;
+            case 7:
+                System.out.println("Você escolheu a Exercicio 7");
+                Exercicio_07.executar();
+                break;
+            case 8:
+                System.out.println("Você escolheu a Exercicio 8");
+                Exercicio_08.executar();
+                break;
+            case 9:
+                System.out.println("Você escolheu a Exercicio 9");
+                Exercicio_09.executar();
+                break;
+            case 10:
+                System.out.println("Você escolheu a Exercicio 10");
+                Exercicio_10.executar();
+                break;
+            case 11:
+                System.out.println("Você escolheu a Exercicio 11");
+                Exercicio_11.executar();
+                break;
+            case 12:
+                System.out.println("Você escolheu a Exercicio 12");
+                Exercicio_12.executar();
+                break;
+            case 13:
+                System.out.println("Você escolheu a Exercicio 13");
+                Exercicio_13.executar();
+                break;
+            case 14:
+                System.out.println("Você escolheu a Exercicio 14");
+                Exercicio_14.executar();
+                break;
+            case 15:
+                System.out.println("Você escolheu a Exercicio 15");
+                Exercicio_15.executar();
+                break;
+            case 16:
+                System.out.println("Você escolheu a Exercicio 16");
+                Exercicio_16.executar();
+                break;        
+            case 17:
+                System.out.println("Você escolheu a Exercicio 17");
+                Exercicio_17.executar();
+                break;  
+            case 18:
+                System.out.println("Você escolheu a Exercicio 18");
+                Exercicio_18.executar();
+                break;  
             // case 19:
             //     System.out.println("Você escolheu a Exercicio 19");
             //     Exercicio_19.executar();
