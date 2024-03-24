@@ -3,6 +3,7 @@ public class PessoaGeneroContador {
     private String sexo;
 
     public PessoaGeneroContador(String nome, String sexo) {
+        
         this.nome = nome;
         this.sexo = sexo;
     }
