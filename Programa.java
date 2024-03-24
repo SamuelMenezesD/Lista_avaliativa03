@@ -117,6 +117,30 @@ public class Programa {
             //     System.out.println("Você escolheu a Exercicio 20");
             //     Exercicio_20.executar();
             //     break;  
+            //case 21:
+            //     System.out.println("Você escolheu a Exercicio 21");
+            //     Exercicio_21.executar();
+            //     break;
+            //case 22:
+            //     System.out.println("Você escolheu a Exercicio 22");
+            //     Exercicio_22.executar();
+            //     break;
+            //case 23:
+            //     System.out.println("Você escolheu a Exercicio 23");
+            //     Exercicio_23.executar();
+            //     break;
+            //case 24:
+            //     System.out.println("Você escolheu a Exercicio 24");
+            //     Exercicio_24.executar();
+            //     break;
+            //case 25:
+            //     System.out.println("Você escolheu a Exercicio 25");
+            //     Exercicio_25.executar();
+            //     break;
+            //case 26:
+            //     System.out.println("Você escolheu a Exercicio 26");
+            //     Exercicio_26.executar();
+            //     break;
             default:
                 System.out.println("Exercicio inválida!");
                 break;
