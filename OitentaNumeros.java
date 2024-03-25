@@ -6,7 +6,7 @@ public class OitentaNumeros {
     
     public int numEntre(){
         int quantentre = 0;
-        for(int i = 0; i < 8; i++){
+        for(int i = 0; i < 80; i++){
             System.out.println("Digite um numero para a posição  " + (i+1));
             int num = leitor.nextInt();
             if (num > 10 && num < 150) {
