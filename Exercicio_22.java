@@ -17,7 +17,7 @@ public class Exercicio_22 {
 
         ContaLuz contaLuz = new ContaLuz(tipo, consumo);
 
-        System.out.println("Valor da conta de luz: R$" + contaLuz.calcularValorConta(tipo, consumo) );
+        System.out.println("Valor da conta de luz: R$" + contaLuz.calcularValorConta() );
 
 
         leitor.close();
