@@ -6,7 +6,7 @@ public class ContaLuz {
         this.consumo = consumo;
         this.tipo = tipo;
     }
-    public double calcularValorConta(int tipo, double consumo) {
+    public double calcularValorConta() {
         double valor = 0;
 
         switch (tipo) {
