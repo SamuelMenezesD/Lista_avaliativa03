@@ -6,23 +6,23 @@ public class Nadador {
         this.idade = idade;
     }
     public String categoriaIdade(){
-        if (idade < 7 && idade > 5) {
+        if (idade <= 7 && idade >= 5) {
             return "Infantil A";
             
         }
-        if (idade < 10 && idade > 8) {
+        if (idade <= 10 && idade >= 8) {
             return "Infantil B";
             
         }
-        if (idade > 11 && idade < 13) {
+        if (idade >= 11 && idade <= 13) {
             return "Juvenil A";
             
         }
-        if (idade > 14 && idade < 17) {
+        if (idade >= 14 && idade <= 17) {
             return "Juvenil B";
             
         }
-        if (idade > 18 && idade < 25) {
+        if (idade >= 18 && idade <= 25) {
             return "Senior";
             
         }
