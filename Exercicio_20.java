@@ -21,7 +21,6 @@ public class Exercicio_20 {
 
         System.out.println(escolaAprender.calcularProf());
 
-
         leitor.close();
     
     }
